@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Home
 date: 2017-01-09
 ---
 
