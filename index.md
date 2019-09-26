@@ -1,5 +1,6 @@
 ---
-title: Home
+title: LUTHAI INTERNATIONAL LIMITED
+description: HONG KONG
 date: 2017-01-09
 ---
 
